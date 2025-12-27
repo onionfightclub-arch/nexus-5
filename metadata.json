@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Creative Agency",
+  "description": "A high-end, 3D-interactive landing page for a premium creative marketing agency, featuring smooth scroll animations and an AI-powered strategist.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
